@@ -3,7 +3,7 @@
 
 ---
 
-I’m currently working with the amazing folks at **Quantrail**, building real-time data pipelines using `ClickHouse`, `Python`, and `SQL`.  
+I’m currently working with the amazing folks at **Quantrail Data**, building real-time data pipelines using `ClickHouse`, `Python`, and `SQL`.  
 I enjoy solving data problems that actually matter and learning cool stuff while I’m at it 😄
 
 I'm also a final year CSE student at **Rajalakshmi Engineering College**, and I’ve been part of some fun builds:
