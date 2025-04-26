@@ -20,7 +20,7 @@ I'm also a final year CSE student at **Rajalakshmi Engineering College**, and Iâ
 
 ---
 
-<p align="center">
+<p align="Left">
   <img src="https://github-readme-stats.vercel.app/api?username=mohhddhassan&show_icons=true&theme=tokyonight" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohhddhassan&layout=compact&theme=tokyonight" alt="langs" />
 </p>
