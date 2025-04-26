@@ -1,39 +1,36 @@
-<h1 align="center">Hey, I'm Mohamed Hussain Shahul Hameed 👋</h1>
-<h3 align="center">Associate Data Engineer | Python • SQL • ClickHouse Enthusiast</h3>
+<h1 align="Left">Hey there 👋, I'm Hussain</h1>
+<p align="Left">🚀 Associate Data Engineer | Python & SQL Enthusiast | ClickHouse Explorer</p>
 
 ---
 
-🎯 **About Me**  
-- 👨‍💻 Interning at **Quantrail** as an Associate Data Engineer  
-- ⚙️ Building real-time data pipelines with **ClickHouse**, **Python**, and **SQL**  
-- 🎓 CSE @ Rajalakshmi Engineering College (2021–2025)  
-- 🧠 Hackathon explorer: TechQuest, Hackoverflow & more  
-- 🚀 Always curious to solve real-world data challenges
+I’m currently working with the amazing folks at **Quantrail**, building real-time data pipelines using `ClickHouse`, `Python`, and `SQL`.  
+I enjoy solving data problems that actually matter and learning cool stuff while I’m at it 😄
+
+I'm also a final year CSE student at **Rajalakshmi Engineering College**, and I’ve been part of some fun builds:
+
+- ⚡ **AutoTrend** – a demand prediction system powered by AutoML  
+- 💊 **EduTrack** – healthcare reminder app  
+- 🧠 **Pictale** – productivity tools from a hackathon sprint  
+- 🏆 Been to TechQuest, Hackoverflow, and love the hackathon grind  
 
 ---
 
-🛠 **Tech Stack**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/ClickHouse-FFDD00?style=flat&logoColor=black" />
-  <img src="https://img.shields.io/badge/ETL%20Pipelines-5C2D91?style=flat&logo=dataiku&logoColor=white" />
-</p>
+### 🧰 Currently into:
+`Python` · `SQL` · `ClickHouse` · `ETL` · `Big Data Concepts`
 
 ---
 
-📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohhddhassan&show_icons=true&theme=radical" alt="mohhddhassan stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohhddhassan&layout=compact&theme=radical" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohhddhassan&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohhddhassan&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
 ---
 
-📫 **Let’s Connect**
-- 📧 Email: mohhddhassan@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/hussainmohhdd)
+Wanna talk data, projects, or random tech? Just ping me 👇  
+📫 [mohhddhassan@gmail.com](mailto:mohhddhassan@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/hussainmohhdd)
 
 ---
 
-_“Code hard, stay curious, and build things that matter 💡”_
+<p align="center"><em>Still learning. Still building. Always curious ✨</em></p>
