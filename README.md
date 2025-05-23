@@ -1,4 +1,3 @@
-Gotcha da — you want to highlight **TrendLite** as a solid personal initiative, not a show-off "featured project." Here’s a clean, accurate version that naturally brings it up without sounding too promotional:
 
 ---
 
@@ -38,5 +37,3 @@ Wanna jam on data engineering, project ideas, or just tech talk? Reach out 👇
 <p align="center"><em>Graduated. Exploring. Always curious ✨</em></p>
 
 ---
-
-Let me know if you want this formatted for your GitHub profile `README.md`, or a version for LinkedIn's “About” section.
