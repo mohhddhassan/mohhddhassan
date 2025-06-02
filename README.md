@@ -1,5 +1,7 @@
 
 
+---
+
 <h1 align="left">Hey there 👋, I'm Hussain</h1>  
 <p align="left">🚀 Associate Data Engineer Intern | Python & SQL Buff | ClickHouse & ETL Nerd</p>
 
@@ -33,9 +35,11 @@ Here are a few other cool things I’ve built along the way:
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hussainmohhdd&show_icons=true&theme=radical&hide=prs" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainmohhdd&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohhddhassan&show_icons=true&theme=radical&hide=prs" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohhddhassan&layout=compact&theme=radical" height="170" />
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohhddhassan)
 
 ---
 
@@ -51,11 +55,4 @@ Here are a few other cool things I’ve built along the way:
 ---
 
 <p align="center"><em>CS Grad | Associate Data Engineer Intern | Data Nerd in Training ✨</em></p>
-
 ---
-
-🔹 **Bonus**: You can also add a **profile view counter** if you’d like:
-
-```md
-![Profile Views](https://komarev.com/ghpvc/?username=mohhddhassan)
-```
