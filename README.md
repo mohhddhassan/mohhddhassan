@@ -1,34 +1,45 @@
 <h1 align="left">Hey there 👋, I'm Hussain</h1>  
-<p align="left">🚀 Associate Data Engineer | Python & SQL Enthusiast | ClickHouse Explorer</p>
+<p align="left">🚀 Associate Data Engineer Intern | Python & SQL Buff | ClickHouse & ETL Nerd</p>
 
 ---
 
-I'm currently working with the amazing folks at **Quantrail Data**, building scalable **ETL pipelines**, optimizing queries in **ClickHouse**, and diving into production-grade data infra.  
-I’ve completed my Computer Science degree and am now focused on sharpening my data engineering skills through real-world work and side projects.
+I'm currently leveling up at **Quantrail Data**, where I'm crafting scalable **ETL pipelines**, tuning complex queries in **ClickHouse**, and learning the ropes of production-ready data engineering. Fresh out of my Computer Science degree, I’m diving deep into building **robust, efficient, and high-throughput data infra**.
 
-Recently, I wrapped up a project called **TrendLite** — a real-time retail insights dashboard using `ClickHouse` and `Streamlit`.  
-I built it right after finishing the ClickHouse course from Udemy — mainly to solidify what I learned and explore how ClickHouse performs with real-time analytics. Learned a ton from it!
+Recently, I wrapped up a project called **TrendLite** – a real-time retail insights dashboard built with `ClickHouse` & `Streamlit`. It started as a way to lock in my ClickHouse skills post-Udemy, but it turned into a super fun, real-time analytics playground. Learned a ton about query optimization, large dataset handling, and fast aggregation.
 
-Here are a few other things I’ve built:
+Here are a few other cool things I’ve built along the way:
 
-* ⚡ **AutoTrend** – AutoML-based demand prediction with model comparison & ensemble learning  
-* 💊 **MedRem** – 24-hour hackathon app for medicine tracking and smart reminders  
-* 🧠 **Pictale** – productivity tools suite built during HackOverflow  
-* 🏁 Hackathon regular – been to TechQuest, HackOverflow, and love the late-night grind
+* ⚡ **AutoTrend** – an AutoML-powered demand prediction engine with ensemble models & dynamic dashboards
+* 💊 **MedRem** – a hackathon-winning app for smart medicine tracking and reminders
+* 🧠 **Pictale** – a productivity tools suite designed during HackOverflow
+* 🏁 Hackathon enthusiast – competed in TechQuest, HackOverflow, and more (I live for the late-night caffeine & code jams!)
 
 ---
 
-### 🧰 Currently working with:
+### ⚙️ Current Tech Stack & Learning Zone:
 
-`Python` · `SQL` · `ClickHouse` · `ETL` · `PostgreSQL` · `Airflow` · `Streamlit`
+* 🐍 `Python` – data pipelines, CLI tools, and some backend magic
+* 💾 `SQL` – query crafting, performance tuning, subqueries & CTE wizardry
+* ⚡ `ClickHouse` – high-speed analytics, query optimization, real-time dashboards
+* 📦 `ETL` – batch jobs, incremental loads, data modeling
+* 🐘 `PostgreSQL` – solid relational foundations, indexing & joins
+* 🌬️ `Airflow` – orchestrating DAGs like a boss (still mastering!)
+* 🌿 `Streamlit` – quick data app builds, dashboards, and PoCs
 
 ---
 
-Wanna jam on data engineering, project ideas, or just tech talk? Reach out 👇  
-📫 [mohhddhassan@gmail.com](mailto:mohhddhassan@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/hussainmohhdd)  
+📚 **Always Learning**: I’m deepening my ClickHouse and Airflow chops, exploring data orchestration, and playing with real-time analytics challenges. Data engineering is my jam, and I’m here to learn, build, and level up 🚀.
+
+---
+
+💬 Wanna geek out on data infra, project ideas, or just talk tech? Let’s connect!
+📫 [mohhddhassan@gmail.com](mailto:mohhddhassan@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/hussainmohhdd)
 🌐 [Portfolio](https://my-portfolio-git-main-mohamed-hussain-ss-projects.vercel.app/)
 
 ---
 
-<p align="center"><em>Graduated. Exploring. Always curious ✨</em></p>
+<p align="center"><em>CS Grad | Associate Data Engineer Intern | Data Nerd in Training ✨</em></p>
+
+---
+
