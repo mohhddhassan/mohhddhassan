@@ -1,3 +1,5 @@
+
+
 <h1 align="left">Hey there 👋, I'm Hussain</h1>  
 <p align="left">🚀 Associate Data Engineer Intern | Python & SQL Buff | ClickHouse & ETL Nerd</p>
 
@@ -18,13 +20,22 @@ Here are a few other cool things I’ve built along the way:
 
 ### ⚙️ Current Tech Stack & Learning Zone:
 
-* 🐍 `Python` – data pipelines, CLI tools, and some backend magic
-* 💾 `SQL` – query crafting, performance tuning, subqueries & CTE wizardry
-* ⚡ `ClickHouse` – high-speed analytics, query optimization, real-time dashboards
-* 📦 `ETL` – batch jobs, incremental loads, data modeling
-* 🐘 `PostgreSQL` – solid relational foundations, indexing & joins
-* 🌬️ `Airflow` – orchestrating DAGs like a boss (still mastering!)
-* 🌿 `Streamlit` – quick data app builds, dashboards, and PoCs
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFDD00?style=for-the-badge\&logo=clickhouse\&logoColor=black)
+![ETL](https://img.shields.io/badge/-ETL-FF6F00?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge\&logo=apache-airflow\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hussainmohhdd&show_icons=true&theme=radical&hide=prs" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainmohhdd&layout=compact&theme=radical" height="170" />
+</p>
 
 ---
 
@@ -43,3 +54,8 @@ Here are a few other cool things I’ve built along the way:
 
 ---
 
+🔹 **Bonus**: You can also add a **profile view counter** if you’d like:
+
+```md
+![Profile Views](https://komarev.com/ghpvc/?username=mohhddhassan)
+```
