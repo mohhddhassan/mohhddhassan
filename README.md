@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Hussain</h1>  
-<p align="center">🚀 Associate Data Engineer Intern | Python & SQL Buff | ClickHouse & ETL Nerd</p>
+<p align="center">Associate Data Engineer Intern | Passionate About Scalable Analytics & Real-Time Data </p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=mohhddhassan&label=Profile%20Views&color=blueviolet&style=flat-square"><img src="https://komarev.com/ghpvc/?username=mohhddhassan&label=Profile%20Views&color=blueviolet&style=flat-square"></a>
