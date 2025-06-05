@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Hussain</h1>  
+<h1 align="center">Hi there 👋, I'm Hussain</h1>  
 <p align="center">Associate Data Engineer Intern | Passionate About Scalable Analytics & Real-Time Data </p>
 
 <p align="center">
