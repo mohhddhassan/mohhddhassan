@@ -1,4 +1,4 @@
-# Hey, I’m Hussain  
+# Hi, I’m Hussain  
 **Data Engineer Intern** · **Real‑Time Analytics Fanatic** · **Scaling Data Infra**
 
 ---
