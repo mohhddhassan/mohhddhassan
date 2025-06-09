@@ -31,8 +31,9 @@ Data Engineer Intern passionate about real-time analytics and building scalable 
 
 ---
 
-### 📊 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=mohhddhassan&show_icons=true&theme=radical&hide=prs,issues)
+### 🧠 Tech Breakdown
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohhddhassan&layout=compact&theme=radical)
+
 
 ---
 
