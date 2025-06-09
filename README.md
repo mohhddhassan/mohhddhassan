@@ -3,9 +3,8 @@
 
 ---
 
-### 🔧 My Focus
-- **Quantrail Data**: Real‑time ETL pipelines + optimized ClickHouse
-- **TrendLite**: Retail insights with Streamlit & ClickHouse
+### 👋 About Me  
+Data Engineer Intern passionate about real-time analytics and building scalable data infrastructure. Always eager to explore new tools, automate pipelines, and turn data into actionable insights.
 
 ---
 
