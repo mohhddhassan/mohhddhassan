@@ -1,9 +1,9 @@
-# Hey, I’m Hussain 👋  
+# Hey, I’m Hussain  
 **Data Engineer Intern** · **Real‑Time Analytics Fanatic** · **Scaling Data Infra**
 
 ---
 
-### 👋 About Me  
+### 🙋‍♂️ About Me  
 Data Engineer Intern passionate about real-time analytics and building scalable data infrastructure. Always eager to explore new tools, automate pipelines, and turn data into actionable insights.
 
 ---
@@ -21,25 +21,19 @@ Data Engineer Intern passionate about real-time analytics and building scalable 
 
 ---
 
-Perfect da — here’s the updated **Projects at a Glance** section without *Pictale*, keeping everything clean and on point:
+### 🚀 Projects at a Glance  
+- **TrendLite** – Live retail insights dashboard (Python · Streamlit · ClickHouse)  
+&nbsp;&nbsp;&nbsp;&nbsp;→ Real-time KPIs, top products, and trend breakdowns powered by Altair and optimized SQL queries.  
+- **AutoTrend** – Demand prediction system (Python · AutoML · Streamlit)  
+&nbsp;&nbsp;&nbsp;&nbsp;→ Upload data, explore EDA, and get top 5 model results with ensemble-based predictions.  
+- **MedRem** – Medicine reminder app (PHP · MySQL · JS)  
+&nbsp;&nbsp;&nbsp;&nbsp;→ Built a functional MVP in 24 hrs with team — lets users schedule and track meds with simple UI.
 
 ---
 
-### 🚀 Projects at a Glance
-
-* **TrendLite** – Live retail insights dashboard (Python · Streamlit · ClickHouse)
-      → Real-time KPIs, top products, and trend breakdowns powered by Altair and optimized SQL queries.
-* **AutoTrend** – Demand prediction system (Python · AutoML · Streamlit)
-      → Upload data, explore EDA, and get top 5 model results with ensemble-based predictions.
-* **MedRem** – Medicine reminder app (PHP · MySQL · JS)
-      → Built a functional MVP in 24 hrs with team — lets users schedule and track meds with simple UI.
-
----
-
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 ![Stats](https://github-readme-stats.vercel.app/api?username=mohhddhassan&show_icons=true&theme=radical&hide=prs,issues)
 
 ---
 
-**CS Grad · Data Builder · Hackathon Hustler · Living on Coffee & Curiosity** ☕
-
+**CS Grad · Data Builder · Hackathon Hustler · Living on Coffee & Curiosity** ☕
