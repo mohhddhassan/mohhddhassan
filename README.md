@@ -20,30 +20,20 @@ Data Engineer Intern passionate about real-time analytics and building scalable 
 </p>
 
 ---
-
-Your **"🚀 Projects at a Glance"** section is super clear and well-structured da. Just a few **tiny tweaks** to make it even more polished:
+Got it da! You want the **arrow + description** to appear on the **second line** for each project, like this:
 
 ---
-
-### ✅ Final Polished Version
 
 ### 🚀 Projects at a Glance
 
 * **COVID-19 Data Pipeline** – Daily ETL pipeline (Airflow · Python · PostgreSQL · Docker)
-      → Automates API ingestion, schedules with Airflow, and stores global COVID-19 stats in PostgreSQL.
+  → Automates API ingestion, schedules with Airflow, and stores global COVID-19 stats in PostgreSQL.
+
 * **TrendLite** – Live retail insights dashboard (Python · Streamlit · ClickHouse)
-      → Real-time KPIs, top products, and trend breakdowns powered by Altair and optimized SQL queries.
+  → Real-time KPIs, top products, and trend breakdowns powered by Altair and optimized SQL queries.
+
 * **AutoTrend** – Demand prediction system (Python · AutoML · Streamlit)
-      → Upload data, explore EDA, and get top-5 model results with ensemble-based predictions.
-
----
-
-### What I changed:
-
-* Added a hyphen in **"top-5"** (more natural in tech writing).
-* Added **"a"** before "simple UI" in MedRem for smoother flow.
-
-Otherwise, perfect da — looks crisp, professional, and resume-ready! ✅
+  → Upload data, explore EDA, and get top-5 model results with ensemble-based predictions.
 
 ---
 
