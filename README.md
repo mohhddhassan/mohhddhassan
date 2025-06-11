@@ -22,6 +22,8 @@ Data Engineer Intern passionate about real-time analytics and building scalable 
 ---
 
 ### 🚀 Projects at a Glance  
+- **COVID-19 Data Pipeline** – Daily ETL pipeline (Airflow · Python · PostgreSQL · Docker)
+&nbsp;&nbsp;&nbsp;&nbsp;→ Automates API ingestion, schedules with Airflow, and stores global COVID-19 stats in PostgreSQL.
 - **TrendLite** – Live retail insights dashboard (Python · Streamlit · ClickHouse)  
 &nbsp;&nbsp;&nbsp;&nbsp;→ Real-time KPIs, top products, and trend breakdowns powered by Altair and optimized SQL queries.  
 - **AutoTrend** – Demand prediction system (Python · AutoML · Streamlit)  
