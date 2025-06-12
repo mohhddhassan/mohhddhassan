@@ -22,9 +22,6 @@ Data Engineer Intern passionate about real-time analytics and building scalable 
 
 
 ---
-Got it da! You want the **arrow + description** to appear on the **second line** for each project, like this:
-
----
 
 ### 🚀 Projects at a Glance
 
