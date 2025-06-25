@@ -33,6 +33,9 @@ Data Engineer Intern passionate about real-time analytics and building scalable 
 
 ### 🚀 Projects at a Glance
 
+* **Kafka → ClickHouse: Real-Time Data Pipeline** – Lightweight streaming pipeline (Kafka · Python · ClickHouse · Docker)
+ → Streams mock user data from a Python Kafka producer into ClickHouse using Kafka engine tables and materialized views — fully containerized for easy setup.
+
 * **ClickHouse Metrics Extractor** – Hourly metrics pipeline (Airflow · Python · ClickHouse · Docker)
   → Automates system metrics extraction from ClickHouse using Airflow, saves hourly snapshots to daily CSVs, and runs fully containerized in Docker.
   
@@ -41,9 +44,6 @@ Data Engineer Intern passionate about real-time analytics and building scalable 
   
 * **TrendLite** – Live retail insights dashboard (Python · Streamlit · ClickHouse)
   → Real-time KPIs, top products, and trend breakdowns powered by Altair and optimized SQL queries.
-
-* **AutoTrend** – Demand prediction system (Python · AutoML · Streamlit)
-  → Upload data, explore EDA, and get top-5 model results with ensemble-based predictions.
 
 ---
 
