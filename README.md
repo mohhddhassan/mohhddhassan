@@ -1,10 +1,10 @@
 # Hi, I’m Hussain  
-**Data Engineer Intern** · **Real‑Time Analytics Fanatic** · **Scaling Data Infra**
+**Data Engineer** · **Real‑Time Analytics Fanatic** · **Scaling Data Infra**
 
 ---
 
 ### 🙋‍♂️ About Me  
-Data Engineer Intern passionate about real-time analytics and building scalable data infrastructure. Always eager to explore new tools, automate pipelines, and turn data into actionable insights.
+Data Engineer passionate about real-time analytics and building scalable data infrastructure. Always eager to explore new tools, automate pipelines, and turn data into actionable insights.
 
 ### 🔗 [my portfolio](https://my-portfolio-git-main-mohamed-hussain-ss-projects.vercel.app/)
 ---
