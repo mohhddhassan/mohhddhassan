@@ -3,13 +3,13 @@
 
 ---
 
-### 🙋‍♂️ About Me  
+### About Me  
 Data Engineer passionate about real-time analytics and building scalable data infrastructure. Always eager to explore new tools, automate pipelines, and turn data into actionable insights.
 
 ### 🔗 [my portfolio](https://my-portfolio-git-main-mohamed-hussain-ss-projects.vercel.app/)
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 <p align="left">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -34,7 +34,7 @@ Data Engineer passionate about real-time analytics and building scalable data in
 
 ---
 
-### 🚀 Projects at a Glance
+### Projects at a Glance
 
 * **Kafka → ClickHouse: Real-Time Data Pipeline** – Lightweight streaming pipeline (Kafka · Python · ClickHouse · Docker)
  → Streams mock user data from a Python Kafka producer into ClickHouse using Kafka engine tables and materialized views — fully containerized for easy setup.
@@ -47,12 +47,6 @@ Data Engineer passionate about real-time analytics and building scalable data in
   
 * **TrendLite** – Live retail insights dashboard (Python · Streamlit · ClickHouse)
   → Real-time KPIs, top products, and trend breakdowns powered by Altair and optimized SQL queries.
-
----
-
-### 🧠 Tech Breakdown
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mohhddhassan&layout=compact&theme=radical)
-
 
 ---
 
