@@ -6,7 +6,7 @@
 ### About Me  
 Data Engineer passionate about real-time analytics and building scalable data infrastructure. Always eager to explore new tools, automate pipelines, and turn data into actionable insights.
 
-### 🔗 [my portfolio](https://my-portfolio-git-main-mohamed-hussain-ss-projects.vercel.app/)
+### 🔗 [my portfolio](https://mohamedhussain.dev/)
 ---
 
 ### Tech Stack
