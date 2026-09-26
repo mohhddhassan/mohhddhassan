@@ -2,6 +2,7 @@
 **Data Engineer** · **Real‑Time Analytics Fanatic** · **Scaling Data Infra**
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=mohhddhassan)
 
 ### About Me  
 Data Engineer passionate about real-time analytics and building scalable data infrastructure. Always eager to explore new tools, automate pipelines, and turn data into actionable insights.
