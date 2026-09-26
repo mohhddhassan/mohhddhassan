@@ -1,31 +1,31 @@
-# Hi, I’m Hussain
+# Hussain
 
-**Data Engineer · ClickHouse · Real-Time Analytics · Data Infrastructure**
+**Data Engineer focused on ClickHouse, real-time analytics & data infrastructure.**
 
-Building data systems and developer tools. Currently working on **CH-Ops**, a ClickHouse operations platform.
+I build data systems, developer tooling, and occasionally break production
+in interesting ways.
 
-[Portfolio](https://mohamedhussain.dev/) · [DEV.to](https://dev.to/mohhddhassan)
+[Portfolio](https://mohamedhussain.dev) · [DEV.to](https://dev.to/mohhddhassan) · [GitHub](https://github.com/mohhddhassan)
+
+---
+
+### Currently
+
+**CH-Ops** — ClickHouse operations & management platform  
+`ClickHouse` `Go` `Docker` `Kubernetes`
+
+### Toolbox
+
+`Python` `Go` `SQL` `ClickHouse` `PostgreSQL` `Kafka` `Airflow` `Docker` `Kubernetes`
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohhddhassan&label=Profile%20Views&style=for-the-badge" />
-  <!-- DEV_STATS_START -->
-  <img src="https://img.shields.io/badge/DEV.to%20Followers-...-black?style=for-the-badge&logo=dev.to" />
-  <img src="https://img.shields.io/badge/DEV.to%20Views-...-black?style=for-the-badge&logo=dev.to" />
-  <!-- DEV_STATS_END -->
+  <img src="https://komarev.com/ghpvc/?username=mohhddhassan&label=views&style=flat-square" />
+  <img src="https://img.shields.io/badge/DEV.to-followers-171717?style=flat-square&logo=dev.to" />
+  <img src="https://img.shields.io/badge/DEV.to-views-171717?style=flat-square&logo=dev.to" />
 </p>
-
-### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,postgres,kafka,docker,kubernetes,git" />
-  <img src="https://img.shields.io/badge/ClickHouse-FFDD00?style=for-the-badge&logo=clickhouse&logoColor=black" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <sub>SELECT curiosity FROM engineering WHERE status = 'building';</sub>
 </p>
-
-```sql
-SELECT *
-FROM engineering
-WHERE curiosity = true;
-```
-
-[Writing on DEV.to →](https://dev.to/mohhddhassan)
