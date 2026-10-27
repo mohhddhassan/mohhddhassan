@@ -52,7 +52,3 @@ Data Engineer passionate about real-time analytics and building scalable data in
 ---
 
 **CS Grad · Data Builder · Hackathon Hustler · Living on Coffee & Curiosity** ☕
-
-
-
-For SystemLog: Flushed, it returns SystemLog as the component and Flushed as the message. For NoColonHere, since there is no colon, it returns NoColonHere as the component and an empty string as the message.
